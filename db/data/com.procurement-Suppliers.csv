@@ -1,0 +1,6 @@
+ID,supplierName,contactPerson,email,phone,city,rating,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+19638484-3a77-4d48-8d6f-2b9198e6eacc,supplierName-19638484,contactPerson-19638484,email-19638484,phone-19638484,city-19638484,3.2,true,2000-10-31T00:00:00.000Z,createdBy.box5g@example.org,2001-05-10T00:00:00.000Z,modifiedBy.box5g@example.net
+15334320-4e24-46fa-8ddd-f9af72144146,supplierName-15334320,contactPerson-15334320,email-15334320,phone-15334320,city-15334320,0,true,2008-05-13T00:00:00.000Z,createdBy.94o1c@example.com,2019-03-20T00:00:00.000Z,modifiedBy.94o1c@example.com
+15334321-7f69-49a0-8974-fe95564049e0,supplierName-15334321,contactPerson-15334321,email-15334321,phone-15334321,city-15334321,0.6,false,2021-06-27T00:00:00.000Z,createdBy.94o1d@example.com,2010-08-28T00:00:00.000Z,modifiedBy.94o1d@example.net
+15334322-8aa8-406a-b996-3cb13f7b62a6,supplierName-15334322,contactPerson-15334322,email-15334322,phone-15334322,city-15334322,2.4,true,2007-05-14T00:00:00.000Z,createdBy.94o1e@example.com,2001-07-27T00:00:00.000Z,modifiedBy.94o1e@example.org
+15334323-5e81-4cc3-8539-c3cdc7cc564e,supplierName-15334323,contactPerson-15334323,email-15334323,phone-15334323,city-15334323,2.2,false,2011-05-19T00:00:00.000Z,createdBy.94o1f@example.net,2017-06-16T00:00:00.000Z,modifiedBy.94o1f@example.net
